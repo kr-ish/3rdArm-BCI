@@ -3,14 +3,21 @@
 Original 3rd Arm maxpatches created by Roozbeh Khodambashi at the Georgia Tech Center for Music Technology (* indicated that the maxpatch was modified from its original state):
 
 3 Motor Trajectory Follower.maxpat
+
 averagingFilter.maxpat
+
 readTrajectoryData.maxpat
+
 wireless1.maxpat
+
 *everythingTogetherLookingNice1.maxpat
 
 Maxpatches created for EEG-BCI-SSVEP Project:
+
 EEG_3rdArm.maxpat
+
 lua.maxpat
+
 
 everythingTogetherLookingNice1.maxpat was modified to include hardcoded positions values for the snare and ride cymbals that were triggered by the BCI.
 
