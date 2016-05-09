@@ -1,7 +1,6 @@
 # 3rdArm-BCI
 
-Original 3rd Arm maxpatches created by Roozbeh Khodambashi at the Georgia Tech Center for Music Technology 
-(* indicates that the maxpatch was modified from its original state):
+Original 3rd Arm maxpatches created by Roozbeh Khodambashi at the Georgia Tech Center for Music Technology                 (* indicates that the maxpatch was modified from its original state):
 
 3 Motor Trajectory Follower.maxpat
 
