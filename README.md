@@ -1,5 +1,7 @@
 # 3rdArm-BCI
 
+https://www.youtube.com/watch?v=QFRcRQqjWWo
+
 Original 3rd Arm maxpatches created by Roozbeh Khodambashi at the Georgia Tech Center for Music Technology
 
 (* indicates that the maxpatch was modified from its original state):
