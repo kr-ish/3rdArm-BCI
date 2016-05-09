@@ -12,6 +12,8 @@ wireless1.maxpat
 
 *everythingTogetherLookingNice1.maxpat
 
+
+
 Maxpatches created for EEG-BCI-SSVEP Project:
 
 EEG_3rdArm.maxpat
